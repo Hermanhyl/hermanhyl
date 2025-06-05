@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there! I'm a student at Noroff School of Technology and Digital Media
 
-<!--
-**Hermanhyl/hermanhyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm currently studying Front-End Development at Noroff, where I work on various projects related to web development, design, and digital media.
 
-Here are some ideas to get you started:
+## 📚 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently studying at **Noroff School of Technology and Digital Media**
+- 💻 Passionate about learning and building digital products
+- 🌍 Based in [Dresden, Germany]
+- ☕ I enjoy coding, gaming, coffee, drawing and exploring new technologies
+
+## 🛠️ Skills & Tools
+
+- HTML, CSS, JavaScript
+- React, Tailwind CSS
+- Git & GitHub
+- Figma, Adobe XD
+- [Add others relevant to your skillset]
+
+## 📁 Repositories
+
+Most of the repositories you’ll find here reflect my coursework and personal projects developed during my studies at Noroff. These include:
+
+- ✅ School assignments
+- 💡 Personal experiments and side projects
+- 🚀 Final exams and portfolio work
+
+## 🔗 Let's Connect
+
+- [Portfolio Website]([https://your-portfolio-link.com](https://portfolio-herman-hylland.netlify.app/project/project2))
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/herman-hylland/))
+- [Email](mailto:hermanhyl@hotmail.com)
+
+---
+
+Thanks for visiting my profile!
