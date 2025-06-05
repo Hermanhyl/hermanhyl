@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm currently studying Front-End Development at No
 - React, Tailwind CSS
 - Git & GitHub
 - Figma, Adobe XD
-- [Add others relevant to your skillset]
+- Adobe: Illustrator, Photoshop, Procreate
 
 ## 📁 Repositories
 
